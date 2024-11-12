@@ -1,1 +1,1 @@
-from scratch
+from openvpn/openvpn-as:2.14.1-ff013d4d-Ubuntu22
